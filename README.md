@@ -87,6 +87,6 @@ my_llm_project/
 
 ---
 
-## 👤 Muallif
+## 👤 Muallif Qodirxon
 
 O'rganish jarayonida yaratildi 🚀
