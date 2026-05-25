@@ -25,7 +25,7 @@ Groq API va LLaMA modeli yordamida qurilgan oddiy, xotirali chatbot. Bu loyiha L
 
 ### 1. Reponi klon qiling
 ```bash
-git clone https://github.com/username/my_llm_project.git
+git clone https://github.com/qodirxoncoer/my_llm_project.git
 cd my_llm_project
 ```
 
